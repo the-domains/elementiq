@@ -1,0 +1,28 @@
+name: elementiq
+favicon: null
+layout_spectrum: 0.8892461371142417
+typography_spectrum: 0.9575910137500614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.42224405985325575
+  lightness: 0.27248749416321516
+  saturation: 0.8619933952577412
+  rhythmicContrast: 0.6510384152643383
+purpose: []
